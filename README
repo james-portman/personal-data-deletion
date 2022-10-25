@@ -1,1 +1,8 @@
 Personal data deletion project
+
+Make a file called .person-data.json with the contents filled in as:
+{
+	"full_name": "John Doe",
+	"address": "123 Some Road, Town, Post Code",
+	"email": "youremail@email.com"
+}
